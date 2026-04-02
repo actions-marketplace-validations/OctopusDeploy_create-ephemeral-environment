@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.1.1](https://github.com/OctopusDeploy/create-ephemeral-environment/compare/v1.1.0...v1.1.1) (2026-03-25)
+
+
+### Bug Fixes
+
+* **deps:** Remove actions core ([#79](https://github.com/OctopusDeploy/create-ephemeral-environment/issues/79)) ([fe0efe9](https://github.com/OctopusDeploy/create-ephemeral-environment/commit/fe0efe95ecdc296efde69d06d2a74a51500884a5))
+
+## [1.1.0](https://github.com/OctopusDeploy/create-ephemeral-environment/compare/v1.0.0...v1.1.0) (2026-03-25)
+
+
+### Features
+
+* Add workflow to check for conventional commit format PR title ([#40](https://github.com/OctopusDeploy/create-ephemeral-environment/issues/40)) ([8421ece](https://github.com/OctopusDeploy/create-ephemeral-environment/commit/8421ece49b645eb472025a96d2c0dbdee7f05254))
+
+
+### Bug Fixes
+
+* **deps:** Upgrade @actions/core to v3.0.0 ([#75](https://github.com/OctopusDeploy/create-ephemeral-environment/issues/75)) ([1ab0c0d](https://github.com/OctopusDeploy/create-ephemeral-environment/commit/1ab0c0d2fde77b5004e135b9501e70a541d7f89c))
+
 ## 1.0.0 (2025-11-07)
 
 
